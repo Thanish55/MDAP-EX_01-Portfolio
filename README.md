@@ -63,7 +63,7 @@ Upload to GitHub Pages for free hosting.
     <!-- Header / Hero Section -->
     <header class="hero">
         <div class="container">
-            <h1>Hi, I'm <span class="highlight">ADITYAH</span></h1>
+            <h1>Hi, I'm <span class="highlight">THANISH</span></h1>
             <p class="tagline">Web Developer | Designer | Tech Enthusiast</p>
             <a href="#projects" class="btn">View My Work</a>
         </div>
@@ -118,8 +118,8 @@ Upload to GitHub Pages for free hosting.
 
     <!-- Contact Section -->
     <footer class="footer">
-        <p>Contact: <a>adithyaitofficial@gmail.com</a></p>
-        <p>&copy; 2025 ADITYAH</p>
+        <p>Contact: <a>thanishitofficial@gmail.com</a></p>
+        <p>&copy; 2025 THANISH</p>
     </footer>
 
 </body>
@@ -234,8 +234,6 @@ body {
 ```
 
 ## OUTPUT
-<img width="1890" height="764" alt="Screenshot 2025-08-11 224031" src="https://github.com/user-attachments/assets/bfd4b59f-cc90-47cf-9edc-50bfc8305bc5" />
-<img width="1919" height="974" alt="Screenshot 2025-08-11 224050" src="https://github.com/user-attachments/assets/97661bec-3787-4acc-bd51-c6f20c4e64a5" />
 
 
 ## RESULT
